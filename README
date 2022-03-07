@@ -1,2 +1,9 @@
 DESAFIO DE PROGRAMAÇÃO 02 - ACADEMIA CAPGEMINI
 
+Para rodar a aplicação:
+1 - clonar o repositório 
+2 - Usar o terminal para ir para a pasta src dentro do directorio do projecto 
+    ($ cd capgemini/src)
+
+4 - Da pasta src, usar o seguinte comando:
+    $ java com.company.Main
